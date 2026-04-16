@@ -59,8 +59,6 @@ export default function Home() {
             2000,
             "Problem Solver 🧠",
             2000,
-            "GATE Aspirant 🎯",
-            2000,
           ]}
           speed={50}
           repeat={Infinity}
